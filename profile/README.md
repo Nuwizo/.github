@@ -13,22 +13,5 @@ Nuwizo is a leading digital marketing agency based in Bangalore, India. With exp
 - 📹 Check out our [LinkedIn](https://www.linkedin.com/company/nuwizo) for insight on digital marketing trends and career.
 - 📝 Dive into our [Blog](https://nuwizo.com/blogs) for in-depth articles and tips on digital marketing strategies.
 
-## 🌟 What You'll Find Here
 
-- **Projects:** Explore our open-source projects and tools.
-- **Resources:** Access valuable resources related to digital marketing, SEO, and more.
-- **Contributions:** We welcome contributions from the community. Check out our guidelines in the respective repositories.
 
-## 🤝 Get Involved
-
-We believe in the power of collaboration. If you're passionate about digital marketing, technology, or design, we invite you to contribute, share your ideas, and be a part of the Nuwizo community. Whether you're a developer, designer, marketer, or enthusiast, there's a place for you here.
-
-## 📚 Documentation
-
-For detailed information on our projects and guidelines, refer to our [Documentation](https://github.com/nuwizo/docs).
-
-## 📬 Contact Us
-
-Have questions or suggestions? Reach out to us at [info@nuwizo.com](mailto:info@nuwizo.com). We value your feedback and look forward to connecting with you!
-
-Thank you for exploring Nuwizo Digital's GitHub Organization. Together, let's make the digital world more vibrant and engaging! 🌟
